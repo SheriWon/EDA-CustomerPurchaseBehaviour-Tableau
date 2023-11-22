@@ -163,11 +163,11 @@ END
 
 ## Interpreting the Results	click [Portfolio](https://public.tableau.com/app/profile/sherry.wang6643/viz/OnlineSalesGrowthAnalysis/Dashboard1)
 
-![Country Sales Pareto](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/Country%20Sales%20Pareto.png= 100x100) 
+![Country Sales Pareto](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/Country%20Sales%20Pareto.png = 100x100) 
 
-![Customer Purchase Latency](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/customer%20purchase%20latency.png)
+![Customer Purchase Latency](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/customer%20purchase%20latency.png | width=100)
 
-![RFM Customer Segments](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/RFM%20details.png)
+<img src= "https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/RFM%20details.png" width="100" height="100">
 
 ## Requirements
 
