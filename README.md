@@ -74,6 +74,7 @@ DATEDIFF('day',{ FIXED [Customer ID]:MAX([Invoice Date])}, {MAX([Invoice Date])}
 { FIXED [Customer ID]:SUM([Revenue ])}
 ```
 2. Calculating RFM Scores
+   
 After getting the RFM measures, we will create three new fields, i.e., “R-Score,” “F-Score,” and “M-Score.” Here we are trying to assign a score to each customer ID, from 1 to 4 (where 1 is the best and 4 is the worst) based on the percentile in which their RFM measures fall. For example, a smaller value of RFM-R, i.e., recency, shows that the customer has made the purchase more recently, so all RFM-R values falling in the first 25 percentile are assigned an R-Score of 1, and so on. But, since good customers are expected to make high-value and frequent purchases, for RFM-F and RFM-M, all values falling in the top 75 percentile are assigned a score of 1, and so on. Finally, we will calculate a combined RFM-Score after calculating all three individual scores. These scores will be our basis for segmenting and defining the type of customers.
 
 ```
@@ -162,11 +163,11 @@ END
 
 ## Interpreting the Results	click [Portfolio](https://public.tableau.com/app/profile/sherry.wang6643/viz/OnlineSalesGrowthAnalysis/Dashboard1)
 
-![Country Sales Pareto]() 
+![Country Sales Pareto](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/Country%20Sales%20Pareto.png) 
 
-![Customer Purchase Latency]()
+![Customer Purchase Latency](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/customer%20purchase%20latency.png)
 
-![RFM Customer Segments]()
+![RFM Customer Segments](https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/RFM%20details.png)
 
 ## Requirements
 
