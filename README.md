@@ -14,15 +14,15 @@ Project Goals for TATA's Retail Store Sales:
 
 ## Table of Contents
 
-1. [efined the Questions](## Defined-the-Questions)
+1. [Defined the Questions](##Defined-the-Questions)
 
-1. [Collecting and Cleaning Data](## Collecting-and-Cleaning-Data)
+1. [Collecting and Cleaning Data](##Collecting-and-Cleaning-Data)
 
-3. [Analysing the Data](## Analysing-the-Data) 
+3. [Analysing the Data](##Analysing-the-Data) 
 
-1. [Interpreting the Results](## Interpreting-the-Results)
+1. [Interpreting the Results](##Interpreting-the-Results)
 
-1. [Requirements](## Requirements)
+1. [Requirements](##Requirements)
 
 ## Defined the Questions
 
