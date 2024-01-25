@@ -14,17 +14,17 @@ Project Goals for TATA's Retail Store Sales:
 
 ## Table of Contents
 
-1. [Defined the Questions](##Defined-the-Questions)
+[1. Defined the Questions](##1.Defined-the-Questions)
 
-1. [Collecting and Cleaning Data](##Collecting-and-Cleaning-Data)
+[2. Collecting and Cleaning Data](##Collecting-and-Cleaning-Data)
 
-3. [Analysing the Data](##Analysing-the-Data) 
+[3. Analysing the Data](##Analysing-the-Data) 
 
-1. [Interpreting the Results](##Interpreting-the-Results)
+[4. Interpreting the Results](##Interpreting-the-Results)
 
-1. [Requirements](##Requirements)
+[5. Requirements](##Requirements)
 
-## Defined the Questions
+## 1. Defined the Questions
 
 | As a(role) |I want(request/demand) | So that I (user value)| Acceptance criteria |
 | :---:        |     :---:      |         :---: | :---:|
@@ -36,7 +36,7 @@ Project Goals for TATA's Retail Store Sales:
 
 
 
-## Collecting and Cleaning Data 
+## 2. Collecting and Cleaning Data 
 
 * Collecting Dataset: Importing online retail datasets to Tableau.
 
@@ -55,7 +55,7 @@ IF [Unit Price] < 0 then 'less than 0' ELSE 'more than 0' END
 IF [Quantity] < 1 then 'less than 0' ELSE 'more than 0' END
 ```
 
-## Analysing the Data 
+## 3. Analysing the Data 
 
 **RFM Customer Segments**
 
@@ -161,7 +161,7 @@ THEN 'Occasional Buyers'
 END
 ```
 
-## Interpreting the Results	click [Portfolio](https://public.tableau.com/app/profile/sherry.wang6643/viz/OnlineSalesGrowthAnalysis/Dashboard1)
+## 4. Interpreting the Results	click [Portfolio](https://public.tableau.com/app/profile/sherry.wang6643/viz/OnlineSalesGrowthAnalysis/Dashboard1)
 
 <img src= "https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/Country%20Sales%20Pareto.png "  width="400" height="250">
 
@@ -170,7 +170,7 @@ END
 <img src= "https://github.com/SheriWon/Tableau-CustomerPurchaseBehaviour/blob/main/image/RFM%20details.png"  width="400" height="250">
 
 
-## Requirements
+## 5. Requirements
 
 * Visualisation tool
 
